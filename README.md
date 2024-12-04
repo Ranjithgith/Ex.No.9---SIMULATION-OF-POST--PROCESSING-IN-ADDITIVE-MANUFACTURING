@@ -41,7 +41,7 @@
 ## UV
 
 ![e](https://github.com/user-attachments/assets/f5b9d59e-7d57-49f1-ab5e-a94cf1326c96)
-![e1](https://github.com/user-attachments/assets/89bd0657-94af-4f6c-b53a-65df2de78ae6)
+![2](https://github.com/user-attachments/assets/33599277-a341-42e1-a1f7-f19d38b41362)
 
 ## Heat Treatment of 3D printed part
 ![e2](https://github.com/user-attachments/assets/fee7559f-47de-4b18-bb46-6cd53082c0d1)
