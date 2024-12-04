@@ -1,6 +1,6 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
+### DATE:04/12/2024 
 
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
@@ -34,21 +34,22 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+![Screenshot 2024-12-04 054558](https://github.com/user-attachments/assets/2aab7a5b-5b41-44cf-91bb-35cffa03ea3e)
+![Screenshot 2024-12-04 055102](https://github.com/user-attachments/assets/e91645e3-f285-4a7e-baaa-9018e851ad90)
 
-## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+## UV
+
+![e](https://github.com/user-attachments/assets/f5b9d59e-7d57-49f1-ab5e-a94cf1326c96)
+![e1](https://github.com/user-attachments/assets/89bd0657-94af-4f6c-b53a-65df2de78ae6)
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+![e2](https://github.com/user-attachments/assets/fee7559f-47de-4b18-bb46-6cd53082c0d1)
+![e3](https://github.com/user-attachments/assets/6624e07e-b655-4aba-9d1c-becafb6d6bde)
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:ranjith kuamar R
+### Register Number:24901221
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
