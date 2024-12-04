@@ -34,8 +34,9 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![Screenshot 2024-12-04 054558](https://github.com/user-attachments/assets/2aab7a5b-5b41-44cf-91bb-35cffa03ea3e)
+
 ![Screenshot 2024-12-04 055102](https://github.com/user-attachments/assets/e91645e3-f285-4a7e-baaa-9018e851ad90)
+![Screenshot 2024-12-04 054558](https://github.com/user-attachments/assets/2aab7a5b-5b41-44cf-91bb-35cffa03ea3e)
 
 ## UV
 
